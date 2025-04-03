@@ -16,5 +16,6 @@ Para o desenvolvimento desse projeto utilizamos:
  - Beatriz Paredes
  - Catarina Loureiro
  - Isabela Batista
+ - Melissa Filgueiras
 
 
