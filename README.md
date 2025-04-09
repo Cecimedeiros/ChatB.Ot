@@ -1,4 +1,4 @@
-# 🔎 PRISMA 
+# 🔎 P.R.I.S.M.A (Plataforma Responsiva de Inteligência para Segurança, Monitoramento e Atendimento)
 <p align="center">
   <img src="https://github.com/Cecimedeiros/PRISMA/blob/main/assets/prima.png.png?raw=true" width="250"/>
 </p>
