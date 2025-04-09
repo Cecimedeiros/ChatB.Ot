@@ -2,6 +2,8 @@
 
 O projeto está sendo desenvolvido com o intuito de auxiliar os cidadãos do estado de Pernambuco a terem acesso a informações verídicas e atualizadas, como localização e número de telefone das unidades policiais, sobre os serviços oferecidos pela Polícia Civil por intermédio de um chatbot, o qual será capaz de sanar dúvidas dos usuários, de maneira humanizada. 
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/k6Sru6sQIpMLfAdsbFBosn/prisma-chatB.Ot?node-id=40-44&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
+
 ## ⚙️ Ferramentas tecnológicas 
 
 Para o desenvolvimento desse projeto utilizamos: 
