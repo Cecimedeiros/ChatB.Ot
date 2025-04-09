@@ -37,6 +37,8 @@ O sistema oferece diversas funcionalidades, incluindo:
 
 ⭕ Desenvolvimento do código;
 
+## Demonstração do projeto
+[📹 Assista à demonstração do projeto no Google Drive](https://drive.google.com/file/d/14x26vmcRaU1XsxRZThTFJIgF097MaSKV/view?usp=drive_link)
 
 
 ## 👩‍💻 Equipe 
