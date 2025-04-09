@@ -1,8 +1,10 @@
 
-
 # 🔎 PRISMA 
 
-O projeto está sendo desenvolvido com o intuito de auxiliar os cidadãos do estado de Pernambuco a terem acesso a informações verídicas e atualizadas sobre os serviços oferecidos pela Polícia Civil por intermédio de um chatbot, o qual será capaz de sanar dúvidas dos usuários, de maneira humanizada. 
+O projeto está sendo desenvolvido com o intuito de auxiliar os cidadãos do estado de Pernambuco a terem acesso a informações verídicas e atualizadas, como localização e número de telefone das unidades policiais, sobre os serviços oferecidos pela Polícia Civil por intermédio de um chatbot, o qual será capaz de sanar dúvidas dos usuários, de maneira humanizada. 
+
+![Tela-tira-duvidas](./PrismaImage/prisma_chatB.Ot.png)
+
 ## ⚙️ Ferramentas tecnológicas 
 
 Para o desenvolvimento desse projeto utilizamos: 
@@ -11,6 +13,7 @@ Para o desenvolvimento desse projeto utilizamos:
 * CSS;
 * JavaScript;
 * React;
+* Vite;
 * [Figma](https://www.figma.com/design/k6Sru6sQIpMLfAdsbFBosn/prisma-chatB.Ot?node-id=0-1&p=f&t=slOnYhONZFkjsFZ5-0).
 
 ## 🔹 Funcionalidades 
@@ -23,8 +26,6 @@ O sistema oferece diversas funcionalidades, incluindo:
 - Registro de Boletim de ocorrência e denúncias online;
 - Agendamento de atendimentos presenciais;
 - Registro de Feedbacks sobre o sistema e acesso ao serviços policiais;
-
-
 
 ## 👩‍💻 Equipe 
  - [Cecília Medeiros](linkedin.com/in/medeiroscecilia22)
