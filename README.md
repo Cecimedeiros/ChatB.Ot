@@ -23,6 +23,19 @@ O sistema oferece diversas funcionalidades, incluindo:
 - Agendamento de atendimentos presenciais;
 - Registro de Feedbacks sobre o sistema e acesso ao serviços policiais;
 
+## Demonstração do projeto
+[📹 Assista à demonstração do projeto no Google Drive](https://drive.google.com/file/d/14x26vmcRaU1XsxRZThTFJIgF097MaSKV/view?usp=drive_link)
+
+## 🔹 Tela Inicial 
+<p align="center">
+  <img src="https://github.com/Cecimedeiros/PRISMA/blob/main/assets/telaInicial.png.png" width="250"/>
+</p>
+
+## 🔹 Tela da principal funcionalidade
+<p align="center">
+  <img src="https://github.com/Cecimedeiros/PRISMA/blob/main/assets/telachat.png.png" width="250"/>
+</p>
+
 ## 🚀 Status do Projeto 
 
 ✅ Problematização e escolha da solução;
@@ -38,10 +51,6 @@ O sistema oferece diversas funcionalidades, incluindo:
 ⭕ Desenvolvimento do código;
 
 ⭕ Testes de confirmação das funcionalidades;
-
-## Demonstração do projeto
-[📹 Assista à demonstração do projeto no Google Drive](https://drive.google.com/file/d/14x26vmcRaU1XsxRZThTFJIgF097MaSKV/view?usp=drive_link)
-
 
 ## 👩‍💻 Equipe 
  - [Cecília Medeiros](linkedin.com/in/medeiroscecilia22)
