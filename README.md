@@ -1,5 +1,5 @@
 # 🔎 PRISMA 
-<p align="center">
+<p align="left">
   <img src="https://github.com/Cecimedeiros/PRISMA/blob/main/assets/prima.png.png?raw=true" width="300"/>
 </p>
 O projeto está sendo desenvolvido com o intuito de auxiliar os cidadãos do estado de Pernambuco a terem acesso a informações verídicas e atualizadas, como localização e número de telefone das unidades policiais, sobre os serviços oferecidos pela Polícia Civil por intermédio de um chatbot, o qual será capaz de sanar dúvidas dos usuários, de maneira humanizada. 
