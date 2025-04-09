@@ -1,4 +1,3 @@
-
 # 🔎 PRISMA 
 
 O projeto está sendo desenvolvido com o intuito de auxiliar os cidadãos do estado de Pernambuco a terem acesso a informações verídicas e atualizadas, como localização e número de telefone das unidades policiais, sobre os serviços oferecidos pela Polícia Civil por intermédio de um chatbot, o qual será capaz de sanar dúvidas dos usuários, de maneira humanizada. 
@@ -24,6 +23,22 @@ O sistema oferece diversas funcionalidades, incluindo:
 - Registro de Boletim de ocorrência e denúncias online;
 - Agendamento de atendimentos presenciais;
 - Registro de Feedbacks sobre o sistema e acesso ao serviços policiais;
+
+## 🚀 Status do Projeto 
+
+✅ Problematização e escolha da solução;
+    
+✅ Criação das personas e mapas de empatia;
+
+✅ Escolha das histórias do usuário e épico;
+
+✅ Criação da jornada do usuário;
+
+✅ Prototipação do website com PRISMA;
+
+⭕ Desenvolvimento do código;
+
+
 
 ## 👩‍💻 Equipe 
  - [Cecília Medeiros](linkedin.com/in/medeiroscecilia22)
