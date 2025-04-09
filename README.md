@@ -5,13 +5,9 @@ O projeto está sendo desenvolvido com o intuito de auxiliar os cidadãos do est
 ## ⚙️ Ferramentas tecnológicas 
 
 Para o desenvolvimento desse projeto utilizamos: 
-* [Trello](https://trello.com/b/IaYicrL2/kanban-residencia);     
-* HTML;
-* CSS;
-* JavaScript;
-* React;
-* Vite;
-* [Figma](https://www.figma.com/design/k6Sru6sQIpMLfAdsbFBosn/prisma-chatB.Ot?node-id=0-1&p=f&t=slOnYhONZFkjsFZ5-0).
+* [Trello](https://trello.com/b/IaYicrL2/kanban-residencia): utilizado para gestão do projeto;     
+* HTML, CSS, JavaScript, React e Vite: utilizados para desenvolvimento Front-End;
+* [Figma](https://www.figma.com/design/k6Sru6sQIpMLfAdsbFBosn/prisma-chatB.Ot?node-id=0-1&p=f&t=slOnYhONZFkjsFZ5-0): Utilizado para prototipação.
 
 ## 🔹 Funcionalidades 
 
