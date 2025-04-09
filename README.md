@@ -6,7 +6,7 @@ O projeto está sendo desenvolvido com o intuito de auxiliar os cidadãos do est
 ## ⚙️ Ferramentas tecnológicas 
 
 Para o desenvolvimento desse projeto utilizamos: 
-* Trello        
+* [Trello](https://trello.com/b/IaYicrL2/kanban-residencia);     
 * HTML;
 * CSS;
 * JavaScript;
